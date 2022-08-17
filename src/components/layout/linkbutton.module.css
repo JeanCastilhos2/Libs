@@ -1,0 +1,10 @@
+.link_btn{
+    padding: 0.5em 1em;
+    background-color: rgb(45, 44, 44);
+    color: aliceblue;
+    transition: 0.5s;
+    text-decoration: none;
+}
+.link_btn:hover{
+    color:rgb(235, 35, 88);
+}

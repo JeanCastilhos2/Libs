@@ -1,0 +1,9 @@
+.btn{
+    justify-content:last baseline;
+    color: rgb(103, 95, 95);
+    float: left;
+    padding: 8px 16px;
+    margin-right: 2px;
+    text-decoration: none;
+    display:flex; 
+}
