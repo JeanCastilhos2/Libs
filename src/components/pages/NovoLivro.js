@@ -19,7 +19,7 @@ function NovoLivro(){
             imagem: imagem
             }
             
-          axios.post('http://localhost:4567/addcad', data)
+          axios.post('http://localhost:4567/livros/cadastrar', data)
     }
 
     return(
